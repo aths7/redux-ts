@@ -1,4 +1,8 @@
-# Sample Redux Typescript Project to highlight
+# Sample Redux Typescript Project
+
+Amplify URL - [Link](https://personal-atharva.signin.aws.amazon.com/console)
+
+### Higlights
 
 - API Structure
 - Redux Setup
